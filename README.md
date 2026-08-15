@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![Sean's GitHub stats](https://github-stats-extended.vercel.app/api?username=spark33)](https://github.com/stats-organization/github-stats-extended)
+[![Sean's GitHub stats](https://github-stats-extended.vercel.app/api?username=spark33&include_all_commits=true)](https://github.com/stats-organization/github-stats-extended)
 
 <!--
 **spark33/spark33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
